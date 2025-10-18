@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="bitmicro",  # your PyPI package name
-    version="1.0.0",  # increment this for new releases
+    version="1.0.1",  # increment this for new releases
     author="Neoncorp",
     author_email="snurlaelah163@gmail.com",
     description="MicroBitcoin Python library (Bitcash-style)",
